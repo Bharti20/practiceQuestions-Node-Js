@@ -16,7 +16,16 @@ var person={
     }
 
 } 
-console.log(person["name"]) // can access using this method 
+console.log(person["name"]) // square bracket notation. 
 console.log(person.age) // dot-notation
 console.log(person.living.city)
 console.log(person.fullName())
+
+
+//can create object like this
+
+var myCar = new Object();
+myCar.make = 'Ford';
+myCar.model = 'Mustang';
+myCar.year = 1969;
+console.log(myCar)
