@@ -24,8 +24,8 @@ console.log(person.fullName())
 
 //can create object like this
 
-var myCar = new Object();
-myCar.make = 'Ford';
-myCar.model = 'Mustang';
-myCar.year = 1969;
-console.log(myCar)
+// var myCar = new Object();
+// myCar.make = 'Ford';
+// myCar.model = 'Mustang';
+// myCar.year = 1969;
+// console.log(myCar)
