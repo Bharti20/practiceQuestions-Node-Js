@@ -1,7 +1,7 @@
 var person={
     name:"Bharti",
     lastName:"kumari",
-    age:23,
+    22:23,
     from:"Bihar",
     hobbies:["watching movie", "dance", "cooking"],
     living:{
@@ -20,6 +20,7 @@ console.log(person["name"]) // square bracket notation.
 console.log(person.age) // dot-notation
 console.log(person.living.city)
 console.log(person.fullName())
+console.log(typeof(person))
 
 
 //can create object like this

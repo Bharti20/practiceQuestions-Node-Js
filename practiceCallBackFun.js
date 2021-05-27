@@ -8,3 +8,4 @@ function myFirst() {
   
   myFirst();
   mySecond();
+
